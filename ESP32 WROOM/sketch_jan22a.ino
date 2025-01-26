@@ -3,7 +3,7 @@
 #include <esp_bt_main.h>
 
 // Constants
-static const uint8_t HWID[5] = {0x01, 0x83, 0xee, 0x80, 0xe7};
+static const uint8_t HWID[5] = {0x01, 0x83, 0xee, 0x80, 0xe7};  //change YOUR HWID from LINE Official Account Manager
 static const uint8_t ADC_PIN = 35;
 static const float R1 = 4000.0;
 static const float R2 = 2000.0;
